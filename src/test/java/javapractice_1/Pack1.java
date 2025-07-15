@@ -15,6 +15,7 @@ public class Pack1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		//adding element by me
 		
 		//by using import package.classname 
 		/*Pack2 D2 =new Pack2();
